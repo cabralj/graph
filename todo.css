@@ -1,0 +1,7 @@
+button,input,body{
+	font-family:Arial,helvetica,sans-serif;font-size:32px;
+}
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
